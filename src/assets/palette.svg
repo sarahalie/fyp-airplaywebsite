@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main palette shape -->
+  <path d="M200 20C300 20 380 100 380 200C380 300 300 380 200 380C100 380 20 300 20 200C20 100 100 20 200 20Z" fill="#FFB74D"/>
+  
+  <!-- Color dots -->
+  <circle cx="120" cy="120" r="30" fill="#2196F3"/>
+  <circle cx="200" cy="80" r="30" fill="#4CAF50"/>
+  <circle cx="280" cy="120" r="30" fill="#FFC107"/>
+  <circle cx="320" cy="200" r="30" fill="#FF5722"/>
+  
+  <!-- Brush handle -->
+  <rect x="320" y="100" width="20" height="200" transform="rotate(45 320 100)" fill="#795548"/>
+  
+  <!-- Brush tip -->
+  <path d="M380 60L360 80L320 40L340 20L380 60Z" fill="#90A4AE"/>
+</svg> 
