@@ -46,7 +46,7 @@ export default {
   name: 'AirPlay',
   data() {
     return {
-      gameUrl: 'http://localhost:3000'
+      gameUrl: 'https://sarahalie.github.io/drawtheshape/'
     }
   },
   methods: {
